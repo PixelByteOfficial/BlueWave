@@ -2,7 +2,7 @@ import React from 'react';
 
 const WhatsAppButton: React.FC = () => {
     // NOTE: Replace with your actual phone number including the country code, without any '+', '-', or spaces.
-    const phoneNumber = '917010071477'; 
+    const phoneNumber = '919488537907'; 
     const whatsappUrl = `https://wa.me/${phoneNumber}`;
 
     return (
