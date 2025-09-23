@@ -38,8 +38,8 @@ const Footer: React.FC = () => {
                     <div>
                         <h3 className="text-xl font-bold mb-4">Contact Us</h3>
                         <ul className="space-y-2 text-gray-300">
-                            <li className="flex items-start"><span className="mr-2 mt-1">📍</span>&nbsp;</li>
-                            <li className="flex items-center"><span className="mr-2">📞</span> 7010071477, 9445698873</li>
+                            <li className="flex items-start"><span className="mr-2 mt-1">📍</span>81/268,Sakkaramman kadu,Bhavani,Erode</li>
+                            <li className="flex items-center"><span className="mr-2">📞</span>9488537907</li>
                             <li className="flex items-center"><span className="mr-2">✉️</span> bluewavetreatments@gmail.com</li>
                         </ul>
                     </div>
